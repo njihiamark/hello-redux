@@ -11,6 +11,8 @@ class App extends Component {
       <ButtonGroup key={2} technologies={["React", "Elm", "React-redux"]} />
     ];
   }
+
+
 }
 
 export default App;

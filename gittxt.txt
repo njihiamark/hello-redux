@@ -1,3 +1,3 @@
 git add .
-git commit -m "Added actions and reducers and logging"
+git commit -m "Added susbscriber to store"
 git push origin master
